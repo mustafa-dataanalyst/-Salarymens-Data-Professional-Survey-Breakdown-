@@ -1,6 +1,6 @@
 # -Salarymens-Data-Professional-Survey-Breakdown-
 
-<img width="396" height="505" alt="image" src="https://github.com/user-attachments/assets/704b5f97-57d7-44a9-a7cc-6a8c5dced90d" />
+<img width="548" height="364" alt="image" src="https://github.com/user-attachments/assets/5a55a45c-6342-4627-ade6-db048fe58b96" />
 
 Transformed raw survey data into an actionable Power BI dashboard, applying data modeling and business logic to uncover key insights.
 Power BI Dashboard Project
