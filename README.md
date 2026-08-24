@@ -1,5 +1,8 @@
-<img width="177" height="237" alt="image" src="https://github.com/user-attachments/assets/e2a315b2-82cb-4aa2-b56f-c784cf89424b" />
 # -Salarymens-Data-Professional-Survey-Breakdown-
+
+<img width="177" height="237" alt="image" src="https://github.com/user-attachments/assets/e2a315b2-82cb-4aa2-b56f-c784cf89424b" />
+<img width="396" height="505" alt="image" src="https://github.com/user-attachments/assets/704b5f97-57d7-44a9-a7cc-6a8c5dced90d" />
+
 Transformed raw survey data into an actionable Power BI dashboard, applying data modeling and business logic to uncover key insights.
 Power BI Dashboard Project
 
