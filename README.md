@@ -1,4 +1,4 @@
-# -Salarymens-Data-Professional-Survey-Breakdown-
+Data Professional Survey Analysis
 
 <img width="548" height="364" alt="image" src="https://github.com/user-attachments/assets/5a55a45c-6342-4627-ade6-db048fe58b96" />
 
